@@ -3,11 +3,12 @@ title: About me
 layout: page
 comments: no
 ---
-
-宅男，程序员，分类癖。
-目前在tp-link做路由器的软件开发。	
-喜欢开发，喜欢开源，喜欢linux，喜欢有意思的产品。
-喜欢猫咪，喜欢游泳，喜欢思考，喜欢学习。
+![我的照片](http://s.gravatar.com/avatar/d5342047df7f09a0cb63897cf364965c?s=80)     
+BigYuki
+宅男，程序员，分类癖。    
+目前在tp-link做路由器的软件开发。    	
+喜欢开发，喜欢开源，喜欢linux，喜欢有意思的产品。    
+喜欢猫咪，喜欢游泳，喜欢思考，喜欢学习。    
 
 ----
 
