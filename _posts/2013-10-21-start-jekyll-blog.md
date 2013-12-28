@@ -2,7 +2,7 @@
 layout: post
 title: "开始用jekyll写博客"
 description: "开始用jekyll写博客"
-category: jekyll
+category: 专业记录
 tags: [jekyll]
 ---
 

@@ -2,8 +2,8 @@
 layout: post
 title: "我做一件事到底为了什么"
 description: "我做一件事到底为了什么"
-category: opinion
-tags: [opinion]
+category: 个人想法
+tags: [目标]
 ---
 
 ##起因
