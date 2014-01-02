@@ -3,6 +3,7 @@ permalink: /:year/:month/:day/:title/
 url: http://www.bigyuki.net/
 author: BigYuki
 title: BigYuki's Unique Life Experience 
+email: bigyuki@bigyuki.net
 pygments: true
 safe: true
 paginate: 16
