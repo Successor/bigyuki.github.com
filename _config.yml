@@ -1,9 +1,9 @@
 markdown: rdiscount
 permalink: /:year/:month/:day/:title/
-url: http://www.bigyuki.net/
-author: BigYuki
-title: BigYuki's Unique Life Experience 
-email: bigyuki@bigyuki.net
+url: http://anweihui.ml
+author: 雪博佳健
+title: 异次元空间 
+email: awhhu@163.com
 pygments: true
 safe: true
 paginate: 16
