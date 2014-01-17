@@ -2,8 +2,8 @@
 layout: post
 title: "开始写博客"
 description: "创建博客成功，好的开始"
-category: 专业记录
-tags: [jekyll]
+category: 生活
+tags: [生活]
 ---
 
 借用别人的模板成功，迈出第一步。
