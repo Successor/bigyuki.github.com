@@ -17,7 +17,7 @@ comments: no
 ###联系方式：        
 
 个人邮箱: [awhhu@163.com](mailto:awhhu@163.com)     
-github : [bigyuki](https://github.com/Successor)        
+github : [Successor](https://github.com/Successor)        
 
 
 ----
