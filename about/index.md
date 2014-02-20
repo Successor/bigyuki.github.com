@@ -3,9 +3,10 @@ title: About me
 layout: page
 comments: no
 ---
-![我的照片](https://lh6.googleusercontent.com/-ysXSgaZ7iWM/Uq0oJzERaFI/AAAAAAAAAIw/XDc6LtKPOro/w140-h140-p/6.jpg)     
+![我的照片](http://c.hiphotos.bdimg.com/album/s%3D550%3Bq%3D90%3Bc%3Dxiangce%2C100%2C100/sign=94eb27adaf6eddc422e7b4fe09e0c7c0/1ad5ad6eddc451da1bd405a3b4fd5266d0163253.jpg?referer=71db8b3d41a98226e1d61e177e32&x=.jpg)     
 ## 雪博佳健
-1. 宅男，程序员。       	
+1. 宅男
+2. 程序员。       	
 
 ---
 ## 博客目标
