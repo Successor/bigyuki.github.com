@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 留言
+title: guestbook 留言
 comments: yes
 ---
 
